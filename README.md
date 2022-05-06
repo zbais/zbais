@@ -12,10 +12,8 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
-<hr>
-<a href="https://github.com/zbais/github-readme-stats" title="Go to Source"><img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=zbais&show_icons=true&theme=gotham"></a>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-</hr>
+
 
 
 ### Contact with me 📝
@@ -64,10 +62,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zbais&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbais&theme=react&line_height=40&hide=css"/>
     </a>
 </div
   
@@ -75,7 +73,7 @@
 
 ---
 
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+ ### ⭐️ From [zbais](https://github.com/zbais) ### 
  
 ---
 
