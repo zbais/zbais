@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/zbais/count.svg" />
 
 
-## I'm a Computer Science and Engineering Student  
+### I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like Java, Python etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
