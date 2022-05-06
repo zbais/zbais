@@ -2,8 +2,8 @@
 
 
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/zbais/count.svg" />
-
+  <img align="left" src="https://profile-counter.glitch.me/zbais/count.svg" />
+  <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ### I'm a Computer Science and Engineering Student  
 
@@ -12,7 +12,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 
 <br/>
