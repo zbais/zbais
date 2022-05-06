@@ -3,6 +3,7 @@
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/zbais/count.svg" />
+  
 
 
 ## I'm a Computer Science and Engineering Student  
@@ -14,7 +15,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 
 ### Contact with me 📝
