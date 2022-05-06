@@ -2,7 +2,7 @@
 
 
  ### Profile Views :<br>
-  <img align="left" src="https://profile-counter.glitch.me/zbais/count.svg" />
+  <img align="left" src="https://profile-counter.glitch.me/zbais/count.svg" /><\br>
   <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ### I'm a Computer Science and Engineering Student  
