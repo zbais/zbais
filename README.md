@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 <hr>
-<a href="https://github.com/zbais/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zbais&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/zbais/github-readme-stats" title="Go to Source"><img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=zbais&show_icons=true&theme=gotham"></a>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 </hr>
 
