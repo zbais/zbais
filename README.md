@@ -15,8 +15,6 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 
----
-
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
