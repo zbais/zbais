@@ -2,10 +2,10 @@
 
 
  ### Profile Views :<br>
-  <img align="left" src="https://profile-counter.glitch.me/zbais/count.svg" /><\br>
+  <img align="left" src="https://profile-counter.glitch.me/zbais/count.svg" /><br/>
   <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-### I'm a Computer Science and Engineering Student  
+## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like Java, Python etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
