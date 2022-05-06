@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+  <img src="https://profile-counter.glitch.me/zbais/count.svg" />
 
 
 ## I'm a Computer Science and Engineering Student  
