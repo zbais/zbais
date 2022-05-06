@@ -9,6 +9,12 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ---
+<hr>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
+
+<hr>
+---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -31,11 +37,7 @@
 
 ---
 
-<hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
-
-<hr>
 
 
 ### Languages and Tools 🛠 
