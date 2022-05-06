@@ -2,10 +2,7 @@
 
 
  ### Profile Views :<br>
- <img align="right" src="https://profile-counter.glitch.me/zbais/count.svg" />
- 
- ---
- 
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 
 ## I'm a Computer Science and Engineering Student  
