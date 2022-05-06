@@ -64,4 +64,4 @@
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 
-
+<img src="https://github.com/zbais/zbais/blob/e045fb3729f76d8cfc7c0f009f958c6252cc5e81/%E6%97%B6%E9%97%B4%E5%85%AC%E5%BC%8F.jpg"/>
