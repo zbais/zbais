@@ -1,9 +1,9 @@
-# Hi there, I'm zbais 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+# Hi there, I'm zbais  
+
 
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/zbais/count.svg" />
-  
+ <img align="right" src="https://profile-counter.glitch.me/zbais/count.svg" />
+ <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 
 ## I'm a Computer Science and Engineering Student  
@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 
 ### Contact with me 📝
